@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "role_name": "doctor",
+    "description": "Profesional médico",
+    "created_at": "2023-06-06 17:00:00"
+  },
+  {
+    "id": 2,
+    "role_name": "paciente",
+    "description": "Recibe atención médica",
+    "created_at": "2023-06-07 18:00:00"
+  },
+  {
+    "id": 3,
+    "role_name": "administrador",
+    "description": "Personal administrativo",
+    "created_at": "2023-06-08 19:00:00"
+  },
+  {
+    "id": 4,
+    "role_name": "enfermero",
+    "description": "Personal de enfermería",
+    "created_at": "2023-06-09 20:00:00"
+  },
+  {
+    "id": 5,
+    "role_name": "recepcionista",
+    "description": "Personal de recepción",
+    "created_at": "2023-06-10 21:00:00"
+  },
+  {
+    "id": 6,
+    "role_name": "técnico_de_laboratorio",
+    "description": "Personal de laboratorio",
+    "created_at": "2023-06-11 22:00:00"
+  },
+  {
+    "id": 7,
+    "role_name": "farmacéutico",
+    "description": "Personal de farmacia",
+    "created_at": "2023-06-12 23:00:00"
+  },
+  {
+    "id": 8,
+    "role_name": "radiólogo",
+    "description": "Personal de radiología",
+    "created_at": "2023-06-13 00:00:00"
+  },
+  {
+    "id": 9,
+    "role_name": "cirujano",
+    "description": "Personal quirúrgico",
+    "created_at": "2023-06-14 01:00:00"
+  },
+  {
+    "id": 10,
+    "role_name": "terapeuta",
+    "description": "Personal de terapia",
+    "created_at": "2023-06-15 02:00:00"
+  }
+]

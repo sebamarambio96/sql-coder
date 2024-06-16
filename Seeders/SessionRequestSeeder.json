@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "person_id": 1,
+    "session_id": 1,
+    "confirmed_by_patient": true,
+    "created_at": "2023-06-08 08:30:00"
+  },
+  {
+    "id": 2,
+    "person_id": 2,
+    "session_id": 2,
+    "confirmed_by_patient": false,
+    "created_at": "2023-06-09 09:30:00"
+  },
+  {
+    "id": 3,
+    "person_id": 3,
+    "session_id": 3,
+    "confirmed_by_patient": true,
+    "created_at": "2023-06-10 10:30:00"
+  },
+  {
+    "id": 4,
+    "person_id": 4,
+    "session_id": 4,
+    "confirmed_by_patient": false,
+    "created_at": "2023-06-11 11:30:00"
+  },
+  {
+    "id": 5,
+    "person_id": 5,
+    "session_id": 5,
+    "confirmed_by_patient": true,
+    "created_at": "2023-06-12 12:30:00"
+  },
+  {
+    "id": 6,
+    "person_id": 6,
+    "session_id": 6,
+    "confirmed_by_patient": false,
+    "created_at": "2023-06-13 13:30:00"
+  },
+  {
+    "id": 7,
+    "person_id": 7,
+    "session_id": 7,
+    "confirmed_by_patient": true,
+    "created_at": "2023-06-14 14:30:00"
+  },
+  {
+    "id": 8,
+    "person_id": 8,
+    "session_id": 8,
+    "confirmed_by_patient": false,
+    "created_at": "2023-06-15 15:30:00"
+  },
+  {
+    "id": 9,
+    "person_id": 9,
+    "session_id": 9,
+    "confirmed_by_patient": true,
+    "created_at": "2023-06-16 16:30:00"
+  },
+  {
+    "id": 10,
+    "person_id": 10,
+    "session_id": 10,
+    "confirmed_by_patient": false,
+    "created_at": "2023-06-17 17:30:00"
+  }
+]
