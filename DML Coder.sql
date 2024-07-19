@@ -1,3 +1,10 @@
+-- Creación del esquema
+CREATE SCHEMA IF NOT EXISTS `medical_institution` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+-- Cambio al esquema creado
+USE `medical_institution`;
+
+-- Tablas
 CREATE TABLE `person` (
   `id` integer AUTO_INCREMENT PRIMARY KEY,
   `name` varchar(255),
