@@ -1,3 +1,6 @@
+-- Cambio al esquema creado
+USE `medical_institution`;
+
 -- Funciones
 
 -- Calcula el tiempo que se demoran las sesiones, importante para poder gestionar el tiempo de mejor manera.
